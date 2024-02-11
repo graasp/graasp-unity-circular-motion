@@ -73,6 +73,8 @@ export const DEFAULT_UNITY_SETTINGS: UnitySettings = {
     [UnitySettingsKeys.Z]: 4,
   },
   [UnitySettingsKeys.GravitationalForceMagnitude]: 300,
+  [UnitySettingsKeys.GravitationalShowVector]: false,
+  [UnitySettingsKeys.GravitationalShowLabel]: false,
   [UnitySettingsKeys.GravitationalShowEquation]: false,
   [UnitySettingsKeys.CelestialBodyIsSun]: true,
 };

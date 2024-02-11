@@ -35,6 +35,8 @@
     "GravForcePosition": "Initial position of the celestial body if active on simulation start",
     "GravForceMagn": "Standard gravitational parameter of the celestial body (Mass*Gravitational constant)",
     "GravForceEquation": "Display gravity component values",
+    "GravForceVector": "Display gravity force vector",
+    "GravForceLabel": "Display gravity force label",
     "CelestialBodyIsSun": "Celestial body mesh (Checked: Sun, Unchecked: Black Hole)",
     "__A" : "================ ================ ================",
     "Settings": "Settings",

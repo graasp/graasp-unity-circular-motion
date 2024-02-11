@@ -44,6 +44,16 @@ const GravitationSettings = (): JSX.Element => {
         divider
       />
       <CustomCheckbox
+        path={[UnitySettingsKeys.GravitationalShowVector]}
+        label={t('UCMVector')}
+        icon={<Icon />}
+      />
+      <CustomCheckbox
+        path={[UnitySettingsKeys.GravitationalShowLabel]}
+        label={t('UCMLabel')}
+        icon={<Icon />}
+      />
+      <CustomCheckbox
         path={[UnitySettingsKeys.GravitationalShowEquation]}
         label={t('GravForceEquation')}
         icon={<Icon />}
