@@ -45,12 +45,12 @@ const GravitationSettings = (): JSX.Element => {
       />
       <CustomCheckbox
         path={[UnitySettingsKeys.GravitationalShowVector]}
-        label={t('UCMVector')}
+        label={t('GravForceVector')}
         icon={<Icon />}
       />
       <CustomCheckbox
         path={[UnitySettingsKeys.GravitationalShowLabel]}
-        label={t('UCMLabel')}
+        label={t('GravForceLabel')}
         icon={<Icon />}
       />
       <CustomCheckbox
