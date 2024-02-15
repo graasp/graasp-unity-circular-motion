@@ -40,6 +40,7 @@ const GravitationSettings = (): JSX.Element => {
         label={t('GravForceMagn')}
         icon={<Icon />}
         unit={PhysicsUnits.Meters}
+        maxValue={1000}
         restricted
         divider
       />
