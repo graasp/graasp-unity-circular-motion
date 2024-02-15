@@ -34,6 +34,8 @@
     "GravForceIsInteractive": "Activer le bouton pour glisser-déposer un corps céleste",
     "GravForcePosition": "Position initiale du corps céleste si elle est active au début de la simulation",
     "GravForceMagn": "Paramètre gravitationnel standard du crops céleste (masse*constante gravitationnelle)",
+    "GravForceVector": "Afficher la force gravitationnelle",
+    "GravForceLabel": "Afficher le nom de la force gravitationnelle",
     "GravForceEquation": "Affichage des valeurs des composantes de la gravité",
     "CelestialBodyIsSun": "Maillage d'un corps céleste (Coché : soleil, non coché : trou noir)",
     "__A" : "================ ================ ================",

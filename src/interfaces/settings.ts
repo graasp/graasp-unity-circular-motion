@@ -44,6 +44,8 @@ export enum UnitySettingsKeys {
   GravitationalForceIsInteractive = 'gravitationalForceIsInteractive',
   GravitationalBodyPositions = 'gravitationalBodyPositions',
   GravitationalForceMagnitude = 'gravitationalForceMagnitude',
+  GravitationalShowVector = 'gravitationalForceShowVector',
+  GravitationalShowLabel = 'gravitationalForceShowLabel',
   GravitationalShowEquation = 'gravitationalShowEquation',
   CelestialBodyIsSun = 'celestialBodyIsSun',
 }
@@ -121,6 +123,8 @@ export type UnitySettings = {
     [UnitySettingsKeys.Z]: number;
   };
   [UnitySettingsKeys.GravitationalForceMagnitude]: number;
+  [UnitySettingsKeys.GravitationalShowVector]: boolean;
+  [UnitySettingsKeys.GravitationalShowLabel]: boolean;
   [UnitySettingsKeys.GravitationalShowEquation]: boolean;
   [UnitySettingsKeys.CelestialBodyIsSun]: boolean;
 

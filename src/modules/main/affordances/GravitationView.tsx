@@ -40,8 +40,19 @@ const GravitationSettings = (): JSX.Element => {
         label={t('GravForceMagn')}
         icon={<Icon />}
         unit={PhysicsUnits.Meters}
+        maxValue={1000}
         restricted
         divider
+      />
+      <CustomCheckbox
+        path={[UnitySettingsKeys.GravitationalShowVector]}
+        label={t('GravForceVector')}
+        icon={<Icon />}
+      />
+      <CustomCheckbox
+        path={[UnitySettingsKeys.GravitationalShowLabel]}
+        label={t('GravForceLabel')}
+        icon={<Icon />}
       />
       <CustomCheckbox
         path={[UnitySettingsKeys.GravitationalShowEquation]}
