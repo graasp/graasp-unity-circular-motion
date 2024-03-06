@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.0.0 (2024-03-06)
+
+
+### Features
+
+* add grav force label vector settings ([c10d058](https://github.com/graasp/graasp-unity-circular-motion/commit/c10d058d0e2650d606be83ce054b792cc97be8b8))
+* forgot to commit vectors settings for grav force ([4079803](https://github.com/graasp/graasp-unity-circular-motion/commit/40798032be847d8b76980033d3f3b08d19c3fed7))
+
+
+### Bug Fixes
+
+* env in cypress tests ([0a399a2](https://github.com/graasp/graasp-unity-circular-motion/commit/0a399a2a8613ae5f8be427393ce51469c19a0182))
+* grav label checkbox ([a0f0468](https://github.com/graasp/graasp-unity-circular-motion/commit/a0f0468338cc4b55e205f7b8bbe92b2e646cf6ab))
+* remove margin in player ([726cbbc](https://github.com/graasp/graasp-unity-circular-motion/commit/726cbbc244bb66f5bf898000bbd0967129d77124))
+* tests and readme update deps ([0b1dbd2](https://github.com/graasp/graasp-unity-circular-motion/commit/0b1dbd2e6153590fc8acfb06a050146a516514e5))
+* update actions ([b1949ed](https://github.com/graasp/graasp-unity-circular-motion/commit/b1949ed5cdfb4f5f83b5a8c913ffa4a49cf66c1d))
+* update deploy workflows action versions ([4af1be0](https://github.com/graasp/graasp-unity-circular-motion/commit/4af1be002c74dde480514ba02eecff3f8b1348f2))
+* update deployment ([95a862a](https://github.com/graasp/graasp-unity-circular-motion/commit/95a862a6c7b0f7e77b6b24865355e962b3f5ca7f))
+
 ## [1.1.0](https://github.com/graasp/graasp-unity-space-rocket/compare/v1.0.0...v1.1.0) (2023-12-08)
 
 
