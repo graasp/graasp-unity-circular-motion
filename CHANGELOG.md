@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/graasp/graasp-unity-circular-motion/compare/v1.0.0...v1.0.1) (2024-03-07)
+
+
+### Bug Fixes
+
+* update frame ([34b81bf](https://github.com/graasp/graasp-unity-circular-motion/commit/34b81bf1e99cffcbcf65882c85141314ffba197e))
+
 ## 1.0.0 (2024-03-06)
 
 
